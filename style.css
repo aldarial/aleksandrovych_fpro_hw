@@ -1,0 +1,12 @@
+#side-div {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: -200px;
+    width: 200px;
+    height: 100%;
+    background-color: #f0f0f0;
+    transition: right 0.3s ease;
+}
+
+
